@@ -159,11 +159,11 @@ packages:
     dependency: "direct main"
     description:
       path: "."
-      ref: master
-      resolved-ref: "767cf0edab684db34714a16f1919657003e12da4"
+      ref: "nawa_util_v1.0.3"
+      resolved-ref: ebd15266b1cc7b4eff9cdd672f37d1ef3b124be4
       url: "https://oauth2:glpat-wEdfVQqv2s4R4XAyHxi3@gitlab.com/Ibnuputraard/nawautils-superapp.git"
     source: git
-    version: "1.0.0+1"
+    version: "1.0.3"
   path:
     dependency: transitive
     description:

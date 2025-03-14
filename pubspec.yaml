@@ -32,8 +32,8 @@ dependencies:
   get_storage:
   nawa_utils:
     git:
-      url: https://oauth2:GIT_PRIVATE_TOKEN@gitlab.com/Ibnuputraard/nawautils-superapp.git
-      ref: master #branch based
+      url: https://oauth2:glpat-wEdfVQqv2s4R4XAyHxi3@gitlab.com/Ibnuputraard/nawautils-superapp.git
+      ref: nawa_util_v1.0.3 #tag based
 
 dev_dependencies:
   flutter_test:
