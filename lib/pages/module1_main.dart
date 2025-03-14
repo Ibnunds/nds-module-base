@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:nawa_utils/nawa_utils.dart';
-import 'package:nawadata_module_base/utils/constants.dart';
+import 'package:nawadata_module_base1/utils/constants.dart';
 
 class Module1MainScreen extends StatelessWidget {
   const Module1MainScreen({super.key});

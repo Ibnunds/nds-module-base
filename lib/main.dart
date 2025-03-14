@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nawa_utils/nawa_utils.dart';
-import 'package:nawadata_module_base/pages/module1_main.dart';
+import 'package:nawadata_module_base1/pages/module1_main.dart';
 
 void main() async {
   await NawaStorage.initStorage();
